@@ -1,0 +1,37 @@
+_repo: Aspects-and-Impressions_35813
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gosse, Edmund
+    aliases:
+    - Gosse, Edmund W. (Edmund William)
+    - Gosse, Edmund William, Sir
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '959'
+    url: http://www.gutenberg.org/2009/agents/959
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+description: ''
+gutenberg_issued: '2011-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Literature, Modern -- History and criticism'
+tableOfContents: 'George Eliot -- Henry James -- Samuel Butler -- A note on Congreve
+  -- The first draft of Swinburne''s "Anactoria" -- The Hôtel de Rambouillet -- Malherbe
+  and the classical reaction -- The foundation of the French academy -- Rousseau in
+  England in the nineteenth century -- The centenary of Leconte de Lisle -- Two French
+  critics: Emile Faguet; Remy de Gourmont -- The writings of M. Clemenceau -- A visit
+  to the friends of Ibsen -- Fairyland and a Belgian Ariosto -- Some recollections
+  of Lord Wolseley.'
+title: Aspects and Impressions
+url: http://www.gutenberg.org/ebooks/35813
